@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "cc24",
+      "email": "admin@gmail.com",
+      "login": "admin",
+      "gender": "female",
+      "role": "admin",
+      "status": "enable"
+    },
+    {
+      "id": "c932",
+      "email": "bob@gmail.com",
+      "login": "userbob",
+      "gender": "female",
+      "role": "user",
+      "status": "enable"
+    },
+    {
+      "id": "c630",
+      "email": "admin@gmail.com",
+      "login": "11@gmail",
+      "gender": "male",
+      "role": "",
+      "status": "enable"
+    },
+    {
+      "id": "cd0b",
+      "email": "admin@gmail.com",
+      "login": "admin",
+      "gender": "male",
+      "role": "admin",
+      "status": "enable"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "bread",
+      "price": 35.5
+    },
+    {
+      "id": "2",
+      "title": "cheese",
+      "price": 40
+    },
+    {
+      "id": "3",
+      "title": "milk",
+      "price": 32
+    }
+  ]
+}
